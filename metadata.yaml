@@ -1,5 +1,8 @@
 _repo: Double-Crossed_67529
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67529-h/images/cover.jpg
 creator:
   author:
     agent_name: Newton, W. Douglas (Wilfrid Douglas)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '34354'
     url: http://www.gutenberg.org/2009/agents/34354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67529#Double-Crossed
 gutenberg_issued: '2022-02-28'
 identifiers:
   gutenberg: '67529'
